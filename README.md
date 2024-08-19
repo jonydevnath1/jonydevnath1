@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name]! 👋
+# Hi there, I'm Jony Devnath! 👋
 
 I'm a passionate **Django Developer** with a knack for solving complex problems on **LeetCode** and an enthusiastic learner of **MLOps**. My journey in software development is driven by a love for building scalable web applications, tackling algorithmic challenges, and exploring the intersection of machine learning and DevOps.
 
